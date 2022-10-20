@@ -1,0 +1,120 @@
+header{
+    background-color: red;
+    width: 1250px;
+    height: 100px;
+    font-size: 50px;
+    margin: auto;
+    
+}
+.one-box{
+padding: 15px 0px 0 545px;
+}
+nav{
+    background-color: yellowgreen;
+    width: 1250px;
+    height: 70px;
+    margin: auto;
+}
+.two-box{
+    font-size: 50px;
+    padding: 0px 0 0 565px;
+}
+main{
+    
+    width: 1250px;
+    height: 1355px;
+    border: dashed red;
+    margin-top: 50px;
+}
+.sp{
+    font-size: 50px;
+    padding: 0 0  0 555px;
+}
+.rod-1{
+    display: flex;
+    justify-content: space-between;
+    width: 800px;
+    padding-top: 20px;
+    
+}
+.border{
+    border: dashed red;
+    width: 800px;
+    height: 590px;
+    margin: 0 0 0 30px;
+}
+.box-1{
+    width: 300px;
+    height: 300px;
+    background-color: green;
+    margin: 0 0 0 60px;
+}
+.box-2{
+    width: 300px;
+    height: 300px;
+    background-color: green;
+    margin: 0 100px 0 0px;
+}
+.rod-4{
+    display: flex;
+    justify-content: space-between;
+    width: 800px;
+}
+.box-3{
+    width: 180px;
+    height: 200px;
+    background-color: blue;
+    margin: 50px 0 0 60px;
+}
+.box-4{
+    width: 180px;
+    height: 200px;
+    background-color: blue;
+    margin: 50px 0px 0 0;
+}
+.box-5{
+    width: 180px;
+    height: 200px;
+    background-color: blue;
+    margin: 50px 100px 0 0;
+}
+aside{
+    width: 300px;
+    height: 1200px;
+    background-color: orange;
+}
+.rod{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.three-box{
+    font-size:50px;
+    margin-left: 95px;
+
+}
+.border-2{
+    border: dashed red;
+    width: 800px;
+    height: 500px;
+    margin :-515px 0 0 30px;
+}
+.text{
+    font-size: 30px;
+    padding: 25px 0 0 60px;
+
+}
+.artic{
+    margin: -40px 0 0 700px;
+    font-size: 30px;
+}
+footer{
+    width: 1250px;
+    height: 100px;
+    background-color: brown;
+    margin: auto;
+}
+.four{
+    font-size: 50px;
+    padding: 20px 0 0 555px;
+}
